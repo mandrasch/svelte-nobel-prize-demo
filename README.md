@@ -29,6 +29,7 @@ Thanks very much to https://simplecss.org/ and the Svelte Community for answerin
 
 ### Further resources
 
+- [SikandarJODD/youva - Pagination | Debounce Search | Sort & Filters](https://github.com/SikandarJODD/youva)
 - [Lets Build A Filtering System with Svelte 5 , Sveltekit 2, Tailwind, Upstash (2024) - Lawal Adebola](https://www.youtube.com/watch?v=5urk4ui_l5o)
 
 ## TODOs
